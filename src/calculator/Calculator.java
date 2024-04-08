@@ -1,5 +1,10 @@
 package calculator;
 
-public class Calculator {
+import javax.swing.JFrame;
 
+public class Calculator extends JFrame {
+	public Calculator() {
+		
+		
+	}
 }
